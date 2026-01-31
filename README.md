@@ -1,6 +1,6 @@
 # 👻 DuDuz1n03 
 
-### **`Desenvolvedor Fullstack´** 
+### 🤖 **`Desenvolvedor Fullstack´** 
 
 Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS), tenho foco em desenvolvimento Front-end, Back-end e gosto de aprender coisas novas. 
 
