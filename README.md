@@ -21,7 +21,6 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
         />
     </a>
 </br>
-</br>
 
 ### 💻 Linguagens 
 
