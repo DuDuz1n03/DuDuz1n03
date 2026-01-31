@@ -20,9 +20,8 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
             src="https://custom-icon-badges.demolab.com/github/stars/DuDuz1n03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-</p>
-
----
+</br>
+</br>
 
 ### 💻 Linguagens 
 
