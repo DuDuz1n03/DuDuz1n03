@@ -1,10 +1,10 @@
 # 👻 DuDuz1n03 
 
-### 🤖 **`Desenvolvedor Fullstack´** 
+**`Desenvolvedor Fullstack´**
 
-Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS), tenho foco em desenvolvimento Front-end, Back-end e gosto de aprender coisas novas. 
+Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS), tenho foco em desenvolvimento Front-end, Back-end gosto de aprender coisas novas e compartilharás. 
 
-
+ 
 <p align="left">
      <a href="https://github.com/DuDuz1n03?tab=followers">
          <img 
@@ -20,6 +20,7 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
             src="https://custom-icon-badges.demolab.com/github/stars/DuDuz1n03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+</p>
 </br>
 
 ### 💻 Linguagens 
@@ -81,6 +82,21 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+<br/>
+
+### 🕹️ Softwares
+
+<p align="left" dir="auto">
+    <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" height="40" alt="figmalogo"  />
+<br clear="both">
 
 <br/>
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanieldeSouza-dev/DanieldeSouza-dev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanieldeSouza-dev/DanieldeSouza-dev/output/snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/DuDuz1n03/DuDuz1n03/output/snake-light.svg" />
+</picture>
