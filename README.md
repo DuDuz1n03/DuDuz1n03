@@ -10,7 +10,7 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
          <img 
              alt="Seguidores"
              title="Me siga no  Github"
-             src="https://custom-icon-badges.demolab.com/github/followers/DuDuz1n03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+             src="https://github.com/DuDuz1n03?tab=followers"
              />
              </a>
       <a href="https://github.com/DuDuz1n03?tab=repositories&sort=stargazers">
