@@ -10,14 +10,14 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
          <img 
              alt="Seguidores"
              title="Me siga no  Github"
-             src="https://custom-icon-badges.demolab.com/github/followers/DuDuz1n03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+             src="https://custom-icon-badges.demolab.com/github/followers/duduz1n03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
              />
              </a>
       <a href="https://github.com/DuDuz1n03?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DuDuz1n03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/duduz1n03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
@@ -88,8 +88,31 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
 ### 🕹️ Softwares
 
 <p align="left" dir="auto">
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-    <a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" height="30" alt="figmalogo"  />
+    <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left"  
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+    <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+    <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    <a href="https://www.figma.com/" rel="nofollow"><img align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
 <br clear="both">
 
 <br/>
