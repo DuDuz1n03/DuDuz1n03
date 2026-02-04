@@ -6,14 +6,14 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
 
  
 <p align="left">
-     <a href="https://github.com/DuDuz1n03?tab=followers">
+     <a href="https://github.com/duduz1n03?tab=followers">
          <img 
              alt="Seguidores"
              title="Me siga no  Github"
              src="https://custom-icon-badges.demolab.com/github/followers/duduz1n03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
              />
              </a>
-      <a href="https://github.com/DuDuz1n03?tab=repositories&sort=stargazers">
+      <a href="https://github.com/duduz1n03?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -89,26 +89,26 @@ Olá, sou o Carlos, sou estudante de Análise e Desenvolvimento de Sistemas (ADS
 
 <p align="left" dir="auto">
     <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left"  
-    alt="Python" 
-    title="Python"
+    alt="Visual Studio" 
+    title="Visual Studio"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" 
-    alt="Python" 
-    title="Python"
+    <a href="https://visualstudio.microsoft.com/" rel="nofollow"><img align="left" 
+    alt="Visual Studio" 
+    title="Visual Studio"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img align="left" 
-    alt="Python" 
-    title="Python"
+    <a href="https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/" rel="nofollow"><img align="left" 
+    alt="Oracle" 
+    title="Oracle"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     <a href="https://www.figma.com/" rel="nofollow"><img align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
